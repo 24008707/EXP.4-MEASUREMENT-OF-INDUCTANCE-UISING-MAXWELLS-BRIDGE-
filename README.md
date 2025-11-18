@@ -34,6 +34,9 @@ STEP 8 : Click on   RESET  button to reset the webpage.
 ## Circuit Diagram:
 <img width="1205" height="486" alt="image" src="https://github.com/user-attachments/assets/bce94cac-3026-4598-aa57-0df0a5b7dbc1" />
 
+## OUTPUT:
+
+<img width="1039" height="489" alt="OUTPUT" src="https://github.com/user-attachments/assets/243e7bc4-4a0f-4c2b-9461-df227f60ee5b" />
 
 
 ## FORMULA: 
@@ -46,3 +49,4 @@ STEP 8 : Click on   RESET  button to reset the webpage.
     R2 = minimum we will neglect it
 
   ## Result: 
+Thus the unknown Inductance using Maxwell’s Bridge has been measured.
